@@ -8,3 +8,4 @@ int main()
 	cin >> x >> y;
 	cout << sqrt(x*x + y * y);
 }
+//hugu
